@@ -1,0 +1,45 @@
+D:\o C cu\Study\Block5\CPP\CPP\obj\Debug\CPP.csprojAssemblyReference.cache
+D:\o C cu\Study\Block5\CPP\CPP\obj\Debug\CPP.Form1.resources
+D:\o C cu\Study\Block5\CPP\CPP\obj\Debug\CPP.Properties.Resources.resources
+D:\o C cu\Study\Block5\CPP\CPP\obj\Debug\CPP.csproj.GenerateResource.cache
+D:\o C cu\Study\Block5\CPP\CPP\obj\Debug\CPP.csproj.CoreCompileInputs.cache
+D:\o C cu\Study\Block5\CPP\CPP\bin\Debug\CPP.exe.config
+D:\o C cu\Study\Block5\CPP\CPP\bin\Debug\CPP.exe
+D:\o C cu\Study\Block5\CPP\CPP\bin\Debug\CPP.pdb
+D:\o C cu\Study\Block5\CPP\CPP\obj\Debug\CPP.exe
+D:\o C cu\Study\Block5\CPP\CPP\obj\Debug\CPP.pdb
+D:\o C cu\Study\Block5\CPP\CPP\bin\Debug\OxyPlot.dll
+D:\o C cu\Study\Block5\CPP\CPP\bin\Debug\OxyPlot.WindowsForms.dll
+D:\o C cu\Study\Block5\CPP\CPP\bin\Debug\Telerik.WinControls.dll
+D:\o C cu\Study\Block5\CPP\CPP\bin\Debug\Telerik.WinControls.Themes.Material.dll
+D:\o C cu\Study\Block5\CPP\CPP\bin\Debug\TelerikCommon.dll
+D:\o C cu\Study\Block5\CPP\CPP\bin\Debug\OxyPlot.pdb
+D:\o C cu\Study\Block5\CPP\CPP\bin\Debug\OxyPlot.xml
+D:\o C cu\Study\Block5\CPP\CPP\bin\Debug\OxyPlot.WindowsForms.pdb
+D:\o C cu\Study\Block5\CPP\CPP\bin\Debug\OxyPlot.WindowsForms.xml
+D:\o C cu\Study\Block5\CPP\CPP\bin\Debug\Telerik.WinControls.xml
+D:\o C cu\Study\Block5\CPP\CPP\obj\Debug\CPP.exe.licenses
+D:\o C cu\Study\Block5\CPP\CPP\obj\Debug\CPP.csproj.CopyComplete
+C:\Users\Admin\Desktop\CPP\CPP\obj\Debug\CPP.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CPP\CPP\obj\Debug\CPP.Form1.resources
+C:\Users\Admin\Desktop\CPP\CPP\obj\Debug\CPP.Properties.Resources.resources
+C:\Users\Admin\Desktop\CPP\CPP\obj\Debug\CPP.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CPP\CPP\obj\Debug\CPP.exe.licenses
+C:\Users\Admin\Desktop\CPP\CPP\obj\Debug\CPP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CPP\CPP\obj\Debug\CPP.exe
+C:\Users\Admin\Desktop\CPP\CPP\obj\Debug\CPP.pdb
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\CPP.exe.config
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\CPP.exe
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\CPP.pdb
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\OxyPlot.dll
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\Telerik.WinControls.dll
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\Telerik.WinControls.Themes.Material.dll
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\TelerikCommon.dll
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\OxyPlot.pdb
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\OxyPlot.xml
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\Telerik.WinControls.xml
+C:\Users\Admin\Desktop\CPP\CPP\obj\Debug\CPP.csproj.CopyComplete
+C:\Users\Admin\Desktop\CPP\CPP\bin\Debug\GraphVizWrapper.dll
